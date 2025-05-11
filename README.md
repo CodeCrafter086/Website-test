@@ -1,22 +1,54 @@
 Credex Web Development Internship Assignment 
-Objec ve 
-Build	a	responsive,	single-page	marketing	website	for	a	ictional	software	resale	startup.	
+Objective: 
+Build	a	responsive,	single-page	marketing	website	for	a	fictional	software	resale	startup.	
 This	assignment	checks	your	ability	to	quickly	ship	a	usable	product	with	clean	code,	
 relevant	content,	and	good	design	instincts.	
-Your Task 
-Build	a	1-page	responsive	website	for	a	ictional	company	called	'SoftSell'	that	includes:	-	1.	Hero	Section	-	Headline	and	subheading	(you	write	it),	CTA	button	(e.g.,	“Get	a	Quote”,	
-“Sell	My	Licenses”)	-	2.	How	It	Works	-	Three	steps:	e.g.,	Upload	License	->	Get	Valuation	->	Get	Paid.	Icons	or	
-visuals	preferred	-	3.	Why	Choose	Us	-	3–4	bullet	points	or	tiles	with	icons	and	small	descriptions	-	4.	Customer	Testimonials	-	Add	2	dummy	reviews	(name,	role,	company)	-	5.	Contact	/	Lead	Form	-	Name,	Email,	Company,	License	Type	(dropdown),	Message	
-(frontend	validation	only)	
-UI/UX Expecta ons -	Visually	appealing	and	modern	-	Use	Tailwind,	Bootstrap,	or	custom	styles	-	Mobile	responsive	layout	-	Coherent	color	palette	and	font	family	
-Tech Guidelines -	Use	React.js	+	Vite	or	Next.js	-	Host	on	Vercel,	Netlify,	or	GitHub	Pages	-	Use	dummy	data,	no	backend	needed	-	Include	a	README.md	with	features	implemented,	design	choices,	and	time	spent	
-Bonus Points -	Logo	placeholder	or	favicon	-	SEO	meta	tags	and	page	title	-	Light/dark	mode	toggle	-	Use	of	animations	(e.g.,	Framer	Motion)	
-Bonus: LLM-Powered Chat Feature 
-Add	a	basic	AI-powered	customer	chat	widget.	-	Use	an	open-source	wrapper	like	Langchain	or	OpenAI	API	-	Hardcode	example	questions	(e.g.,	'How	do	I	sell	my	license?')	-	LLM	can	be	mocked	or	real	(free-tier	OpenAI	key)	
-Evaluation:	-	Clean	UI	integration	-	Intuitive	chat	UX	-	Clear	prompts	and	fallback	responses	
-Deliverables -	GitHub	repo	link	(public	or	invite	access)	-	Live	URL	(hosted	site)	- Aim	for	48	hours	max	from	receiving	this	brief	
-Remain Connected 
-We	have	received	2000+	applications.	So	chances	of	getting	to	work	with	you	is	less	than	1%	
-but	would	love	to	stay	connected.	If	you	feel	comfortable	then	please	send	connection	
-request	on	LinkedIn	to	stay	connected:	https://www.linkedin.com/in/aditya
-adhana-2b0aa4357/
+Website Structure
+
+My Work corresponding to the mentioned objective contains the following sections:-
+
+- 1. Hero Section
+- Headline: "Sell Your Unused Software Licenses Hassle-Free!"
+- Subheading: "SSoftSell helps businesses maximize value by securely reselling surplus software."
+
+- 2. CTA Button: “Get a Quote”, “Sell My Licenses”, "Start Selling"
+
+- 3. How It Works
+- Step 1: Submit License 📝 
+- Step 2: Get free Valuation 🔍
+- Step 3: Secured Validation 🔄️
+- Step 4: Get Paid Instantly 💰
+
+-  4. Why Choose Us
+-   📈Best Market Prices – Competitive valuations for your licenses.
+-   🌏 Global Reach -Connect with buyers worldwide for better resale value
+-   💳 Fast & Secure Payments – Trusted payout methods.
+-   🔦 100% Visibility - No hidden fees or unexpected charges
+-   🚀 Hassle-Free Process – No long contracts, just smooth transactions.
+
+-   5. Customer Testimonials
+📢 Alex M., IT Manager, TechCorp – "SoftSell made our software resale seamless!"
+📢 Sarah T.Roe, CTO, CloudSync – "A simple and effective way to sell excess licenses."
+
+-   6. Contact / Lead Form
+- Name (First/Last)
+- Email
+- Phone
+- Company
+- License Type (Dropdown)
+- Message (Frontend validation)
+
+-  7. Company's Information
+-    Email: contact@softsell.com
+-    Phone: (758)-492-136
+-    Office: Street J12,High Tech Park, Seattle, 98109
+-    Business Hours: 8:00 AM - 6:00 AM (Monday to Friday)
+
+- 8. Additional Work (in respond to the bonus section)
+-  Company's Logo - SoftSell
+-  Company's Motto - "Sell Smart, Profit Fast"
+-  Light/dark	mode	toggle
+-  Guidable Navigation
+
+
+
