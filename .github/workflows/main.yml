@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Replace 'main' with your default branch if different
+      - main  # The branch you are deploying from
 
 jobs:
   deploy:
@@ -21,5 +21,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./  # Directory containing your index.html
+          publish_dir: ./  # The directory containing your index.html
           publish_branch: gh-pages
